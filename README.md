@@ -34,5 +34,6 @@ Go to AdditionalFiles folder for more information on setup for the database
   
 # References
 1. Apache, MySQL, PHP, phpMyAdmin setup (https://coolestguidesontheplanet.com/get-apache-mysql-php-and-phpmyadmin-working-on-osx-10-11-el-capitan/#phpmyadmin)
+3. Creating PHP/MySQL web service for ios app (https://www.raywenderlich.com/2941/how-to-write-a-simple-phpmysql-web-service-for-an-ios-app)
 2. Highcharts document references (http://www.highcharts.com/docs)
 3. Bootstrap Dashboard template (https://github.com/creativetimofficial/light-bootstrap-dashboard)
